@@ -1,0 +1,16 @@
+﻿  FileName.cpp
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(26,26): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(26,26): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(26,26): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(70,22): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(70,22): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(70,22): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(70,22): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(70,84): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(105,26): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(105,26): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(105,26): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(105,26): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(105,26): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+C:\Users\tri\source\repos\Project1\Project1\FileName.cpp(105,26): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+  Project1.vcxproj -> C:\Users\tri\source\repos\Project1\x64\Debug\Project1.exe
